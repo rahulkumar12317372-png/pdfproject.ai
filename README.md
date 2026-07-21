@@ -44,5 +44,7 @@ Edit & Organize Features <img width="1920" height="1080" alt="image" src="https:
 
 Security Features <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1b295caa-ac23-486e-91e0-4493ca9126c9" />
 
+Scan & Repair Features <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6ffca3eb-942f-460b-b354-5d6901a33d60" />
+
 
 
