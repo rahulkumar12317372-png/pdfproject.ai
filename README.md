@@ -42,5 +42,7 @@ Converter Featuures <img width="1920" height="1080" alt="image" src="https://git
 
 Edit & Organize Features <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5c65f1bd-af85-4ecb-8c6e-fbe326896c7d" />
 
+Security Features <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1b295caa-ac23-486e-91e0-4493ca9126c9" />
+
 
 
